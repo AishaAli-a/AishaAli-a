@@ -1,22 +1,27 @@
 
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAishaAli-a&count_bg=%2379C83D&title_bg=%23555555&icon=swift.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<div align ="center">
+  <h3 class="bold">Hello, This is Aisha's Github</h3>
+</div>
+<br>
+<div align ="center" style="margin-top: 10px;">
+  <a href="https://hits.seeyoufarm.com">
+    <img align="center" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAishaAli-a&count_bg=%237BA3F5&title_bg=%23555555&icon=swift.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false" />
+  </a>
+</div>
+<br>
+<div align="center" style="margin-top: 10px;">
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=AishaAli-a&show_icons=true&theme=tokyonight" />
+  </a>
+</div> 
+<br>
+<div align="center" style="margin-top: 10px;">
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AishaAli-a&layout=compact&show_icons=true&theme=tokyonight" />
+  </a>
+</div>
 
 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AishaAli-a&show_icons=true&theme=tokyonight)
 
 
-<!--
-**AishaAli-a/AishaAli-a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
